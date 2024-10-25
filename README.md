@@ -24,17 +24,21 @@ I’m passionate about:
 - **TensorFlow** | **Scikit-Learn** | **Pandas** | **NumPy** | **Apache Superset**
 
 ## 💼 Professional Experience
-### **Staff Software Engineer @ Deloitte**  
-- Developed a **machine learning solution** for pharmaceutical trials, improving decision-making by 30%.
-- Automated data pipelines and used **time series forecasting** to optimize logistics.
+## Deloitte | Staff  Software Engineer                                                                                                                       Apr 2022 - Aug 2024
+●Built a high-efficiency solution for pharmaceutical trials using Node.js, JavaScript, PostgreSQL, and AWS, reducing trial efforts by 50% and processing time by 40%.
+●Integrated end-to-end courier logistics with Node.js and AWS, enhancing delivery reliability and decreasing shipping errors by up to 25%.
+●Deployed Apache Superset for data visualization using Python, saving $15,000 annually in software licensing costs.
+●Actively participated in Scrum meetings, including daily stand-ups, product backlog refinements, and retrospectives.
 
-### **Software Engineer @ Datamatics Global Services**
-- Built **ETL pipelines** with AWS and Python, boosting data reliability by 40%.
-- Scaled backend systems that managed 50K+ daily users.
+## Datamatics | Software Engineer                                                                                                                                Mar 2021 - Mar 2022
+●Developed backend functionalities using Node.js, Express.js, and AWS for a user base of 50,000 active users, improving system reliability.
+●Enhanced system scalability with AWS, 2X efficiency, and maintaining performance during peak loads.
+●Automated agent onboarding through a dashboard built with React, reducing onboarding time from 1 hour to under 10 minutes.
 
-### **Software Engineer @ Hexagram Fintech**
-- Engineered **recommendation systems** that increased customer retention by 35%.
-- Reduced forecasting errors and improved sales predictions with **predictive analytics**.
+## Hexagram Fintech Pvt Ltd | Software Engineer                                                                                                       Aug 2019 - Mar 2021
+●Created a Report Designer feature using Java, Spring Framework, and Oracle, cutting report creation time from 2-3 hours to under 30 minutes.
+●Improved data processing efficiency by 25% through ETL processes implemented with Java.
+●Optimized MySQL queries to reduce system downtime by 40% and improve database performance.
 
 ## 📈 Current Focus
 - **Machine Learning & AI**: Building intelligent systems.
